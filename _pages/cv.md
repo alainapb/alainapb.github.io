@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2> Education </h2>
 * Ph.D in Biological Sciences, University of Nebraska-Lincoln, 2022
 * M.S. in Biological Sciences, DePaul University, 2017
 * B.S. in Biology, St. Ambrose University, 2015

@@ -4,10 +4,11 @@ title: "Teaching & Outreach"
 permalink: /teaching/
 author_profile: true
 ---
-<b> Graduate Teaching Assistant </b>
+<h2> Graduate Teaching Assistant </h2>
+
 Undergraduate laboratory course, University of Nebraska-Lincoln, 2017-2021
 
-Courses Taught
+<h3> Courses Taught </h3>
 * Ecology
   * 4 semesters, 2 sections, 18 students
 * Fundamentals of Biology II
@@ -17,7 +18,8 @@ Courses Taught
 * General Biology for non-majors
   * 1 semester, 2 sections, 18 students
 
-<b> Guest Lecture </b>
+<h2> Guest Lecture </h2>
+
 Undergraduate course, DePaul University, 2017
 
 <h3> Courses Taught </h3>
@@ -29,10 +31,11 @@ Undergraduate course, DePaul University, 2017
   * Topic: population genetics, artificial selection, reproductive isolation mechanisms, and speciation
   * 2 sessions, 135 students each
 
-<b> Graduate Teaching Assistant </b>
+<h2> Graduate Teaching Assistant </h2>
+
 Undergraduate laboratory course, DePaul University, 2015-2017
 
-Courses Taught
+<h3> Courses Taught </h3>
 * Ecology
   * 1 quarter, 2 sections, 24 students
 * General Biology I
