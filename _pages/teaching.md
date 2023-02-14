@@ -46,6 +46,6 @@ Undergraduate laboratory course, DePaul University, 2015-2017
 
 <h1> Outreach </h1>
 
-Beaty Biodiversity Museum | [Researchers Revealed](https://explore.beatymuseum.ubc.ca/researchers-revealed/)
+## Beaty Biodiversity Museum [Researchers Revealed](https://explore.beatymuseum.ubc.ca/researchers-revealed/)
 
 {% include youtube.html id="hkSVMgBl7mo" %}

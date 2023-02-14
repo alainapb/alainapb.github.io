@@ -70,6 +70,9 @@ Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energ
 
 
 ## [Teaching](https://alainapb.github.io/teaching/)
+* Graduate Teaching Assistant, University of Nebraska-Lincoln (2017-2021)
+* Guest Lecturer, DePaul University (2017)
+* Graduate Teaching Assistant, DePaul University (2015-2017)
 
 <h2> Service and leadership </h2>
 * Organizer, [EcoEvo Symposium](https://ecoevoretreat.wordpress.com/), Vancouver, BC (2022)
