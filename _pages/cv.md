@@ -67,15 +67,10 @@ Skills
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
-Teaching
+
+[Teaching](https://alainapb.github.io/teaching/)
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
