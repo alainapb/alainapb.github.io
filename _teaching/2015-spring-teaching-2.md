@@ -1,8 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type:
-permalink: /teaching/2015-spring-teaching-1
+type: Laboratory
 venue: "University of Nebraska-Lincoln, School of Biological Sciences"
 date: 2017-01-01
 location: "Lincoln, NE"

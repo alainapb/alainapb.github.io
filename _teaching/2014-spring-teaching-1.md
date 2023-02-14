@@ -1,8 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type:
-permalink: /teaching/2014-spring-teaching-1
+type: Laboratory
 venue: "DePaul University, Department of Biological Sciences"
 date: 2015-01-01
 location: "Chicago, IL"
