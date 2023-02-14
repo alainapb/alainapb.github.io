@@ -15,4 +15,4 @@ redirect_from:
 
 <h3> Beauty Biodiversity Museum | Researchers Revealed </h3>
 
-[(youtube.jpg)] (https://youtu.be/hkSVMgBl7mo)
+{% include youtube.html id="hkSVMgBl7mo" %}

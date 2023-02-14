@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 <h2> Graduate Teaching Assistant </h2>
-
 Undergraduate laboratory course, University of Nebraska-Lincoln, 2017-2021
 
 <h3> Courses Taught </h3>
@@ -18,8 +17,7 @@ Undergraduate laboratory course, University of Nebraska-Lincoln, 2017-2021
 * General Biology for non-majors
   * 1 semester, 2 sections, 18 students
 
-<h2> Guest Lecture </h2>
-
+<h2> Guest Lecturer </h2>
 Undergraduate course, DePaul University, 2017
 
 <h3> Courses Taught </h3>
@@ -32,7 +30,6 @@ Undergraduate course, DePaul University, 2017
   * 2 sessions, 135 students each
 
 <h2> Graduate Teaching Assistant </h2>
-
 Undergraduate laboratory course, DePaul University, 2015-2017
 
 <h3> Courses Taught </h3>
