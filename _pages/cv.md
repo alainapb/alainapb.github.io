@@ -17,11 +17,11 @@ redirect_from:
 <h2> Work experience </h2>
 * April 2022 - Present: Postdoctoral Research Fellow
   * University of British Columbia
-  * Supervisor: Dr. Jonathan Davies
+  * Supervisor: [Dr. Jonathan Davies](https://davieslabphyloecology.wordpress.com/team/)
 
 * August 2021 - May 2022: Graduate Presidential Fellow
   * University of Nebraska-Lincoln
-  * Supervisor: Dr. Clay Cressler
+  * Supervisor: [Dr. Clay Cressler](https://cressler.weebly.com/)
 
 * August 2017 - August 2021: Graduate Teaching Assistant
   * University of Nebraska-Lincoln
