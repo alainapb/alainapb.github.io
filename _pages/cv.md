@@ -29,7 +29,7 @@ redirect_from:
 * August 2015 - August 2017: Graduate Teaching Assistant
   * DePaul University
 
-<h2>[Publications](https://alainapb.github.io/publications/)</h2>
+[Publications](https://alainapb.github.io/publications/)
 
 <b>Pfenning-Butterworth AC</b>, Vetter RE, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
 
@@ -69,8 +69,16 @@ Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energ
 * MEEC, Midwest Ecology & Evolution Conference (March 2017)
 
 
-<h2> [Teaching](https://alainapb.github.io/teaching/) </h2>
-
+[Teaching](https://alainapb.github.io/teaching/)
 
 <h2> Service and leadership </h2>
-*
+* Organizer, [EcoEvo Symposium](https://ecoevoretreat.wordpress.com/), Vancouver, BC (2022)
+* Volunteer, International Biogeography Society 10th Biennial conference, Vancouver, BC (2022)
+* Data Consultant, Plainfield Public Library District, Plainfield, IL (2022)
+*	President, Biology Graduate Student Association, Lincoln, NE (2020-2021)
+*	Volunteer, Biological Sciences Undergraduate Student Symposium, Lincoln, NE (2019)
+*	Invited Speaker Chair, Biology Graduate Student Association, Lincoln, NE (2018-2020)
+*	Presenter, Creative Science Investigators Club, Lincoln Public Schools, Lincoln, NE (2017-2019)
+*	Volunteer, Quad Cities Botanical Center, Rock Island, IL (2014-2015)
+*	Moderator, Undergraduate Scholars Conference, Davenport, IA (April 2013)
+*	Volunteer, Nahant Marsh Education Center, Davenport, IA (2011-2014)
