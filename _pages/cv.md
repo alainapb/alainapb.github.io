@@ -28,15 +28,8 @@ Work experience
 * August 2017 - August 2021: Graduate Teaching Assistant
   * University of Nebraska-Lincoln
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2015 - August 2017: Graduate Teaching Assistant
+  * DePaul University
 
 [Publications](https://alainapb.github.io/publications/)
 ======
@@ -63,6 +56,15 @@ Hite JL, <b>Pfenning AC</b>, and Cressler CE. 2020. Starving the Enemy? Feeding 
 
 Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energy allocations and host modification in the acanthocephalan *Acanthocephalus dirus*: field data. Parasitology Research 116: 199-206. [DOI:10.1007/s00436-016-5279-8](https://doi.org/10.1007/s00436-016-5279-8)
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -77,4 +79,4 @@ Teaching
 
 Service and leadership
 ======
-* 
+*
