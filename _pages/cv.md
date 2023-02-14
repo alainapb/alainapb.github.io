@@ -19,7 +19,7 @@ redirect_from:
   * University of British Columbia
   * Supervisor: [Dr. Jonathan Davies](https://davieslabphyloecology.wordpress.com/team/)
 
-* August 2021 - May 2022: Graduate Presidential Fellow
+* August 2021 - May 2022: Presidential Graduate Fellow
   * University of Nebraska-Lincoln
   * Supervisor: [Dr. Clay Cressler](https://cressler.weebly.com/)
 

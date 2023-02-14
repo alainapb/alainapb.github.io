@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2> I am interested in the ecological and evolutionary factors that impact host-pathogen interactions, and how these factors scale to affect population and ecosystem-level disease dynamics. My research combines multi-disciplinary tools (e.g., phylogenetics, ecology, immunology, and parasitology) with computational models to understand host-pathogen associations and basic biological principles. </h2>
+<h2> I am interested in the ecological and evolutionary factors that impact host-pathogen interactions, and how these factors scale to affect population and ecosystem-level disease dynamics. My research combines multi-disciplinary tools (e.g., phylogenetics, ecology, genomics, immunology, and parasitology) with computational models to understand host-pathogen associations and basic biological principles. </h2>
 
 
 <h2> Featured </h2>
