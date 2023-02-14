@@ -29,7 +29,7 @@ redirect_from:
 * August 2015 - August 2017: Graduate Teaching Assistant
   * DePaul University
 
-[Publications](https://alainapb.github.io/publications/)
+## [Publications](https://alainapb.github.io/publications/)
 
 <b>Pfenning-Butterworth AC</b>, Vetter RE, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
 
@@ -69,7 +69,7 @@ Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energ
 * MEEC, Midwest Ecology & Evolution Conference (March 2017)
 
 
-[Teaching](https://alainapb.github.io/teaching/)
+## [Teaching](https://alainapb.github.io/teaching/)
 
 <h2> Service and leadership </h2>
 * Organizer, [EcoEvo Symposium](https://ecoevoretreat.wordpress.com/), Vancouver, BC (2022)

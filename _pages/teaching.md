@@ -43,3 +43,9 @@ Undergraduate laboratory course, DePaul University, 2015-2017
   * 2 quarters, 2 sections, 24 students
 * Evolution
   * 1 quarter, 2 sections, 18 students
+
+<h1> Outreach </h1>
+
+Beaty Biodiversity Museum | [Researchers Revealed](https://explore.beatymuseum.ubc.ca/researchers-revealed/)
+
+{% include youtube.html id="hkSVMgBl7mo" %}

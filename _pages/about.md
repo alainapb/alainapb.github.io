@@ -13,6 +13,6 @@ redirect_from:
 
 <h2> Featured </h2>
 
-<h3> Beauty Biodiversity Museum | Researchers Revealed </h3>
+<h3> Beaty Biodiversity Museum | </h3> [Researchers Revealed] (https://explore.beatymuseum.ubc.ca/researchers-revealed/)
 
 {% include youtube.html id="hkSVMgBl7mo" %}
