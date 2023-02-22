@@ -22,7 +22,7 @@ Undergraduate course, DePaul University, 2017
 
 <h3> Courses Taught </h3>
 * Ecology
-  * Topic: host-parasite interaction, host behavioral, and pathological modifications by parasites
+  * Topic: host-parasite interaction and host behavioral and pathological modifications by parasites
   * 1 session, 15 students
 
 * General Biology II
@@ -51,3 +51,7 @@ Undergraduate laboratory course, DePaul University, 2015-2017
 ## Beaty Biodiversity Museum | [Researchers Revealed](https://explore.beatymuseum.ubc.ca/researchers-revealed/)
 
 {% include youtube.html id="hkSVMgBl7mo" %}
+
+## Global change at the nexus of climate, biodiversity and disease Symposium
+
+![Symposium flyer](/alaina_pb.github.io/images/Symposium_Flyer.jpg)
