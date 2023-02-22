@@ -52,6 +52,6 @@ Undergraduate laboratory course, DePaul University, 2015-2017
 
 {% include youtube.html id="hkSVMgBl7mo" %}
 
-## Global change at the nexus of climate, biodiversity and disease Symposium
+## Global change at the nexus of climate, biodiversity and disease symposium
 
 ![Symposium flyer](/images/Symposium_Flyer.jpg)
