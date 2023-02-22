@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<sub> \* indicates undergraduate co-authors </sub>
 <b>2023 </b>
 
-<b>Pfenning-Butterworth AC</b>, Vetter RE, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
+<b>Pfenning-Butterworth AC</b>, Vetter RE<sup>\*</sup>, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
 
 Hite JL, <b>Pfenning-Butterworth AC</b>, and Auld SKJR. 2023. Infectious disease: the ecological theatre and the evolutionary play. Evolutionary Ecology. [In press.](https://doi.org/10.1007/s10682-023-10229-5)
 
@@ -20,13 +21,13 @@ Hite JL, <b>Pfenning-Butterworth AC</b>, and Auld SKJR. 2023. Infectious disease
 
 <b>2021 </b>
 
-<b>Pfenning-Butterworth AC</b>, Amato K, and Cressler CE. 2021. Circadian rhythm in feeding behavior of *Daphnia dentifera*. Journal of Biological Rhythms 36(6): 589-594. [DOI:10.1177/07487304211054404](https://doi.org/10.1177/07487304211054404)
+<b>Pfenning-Butterworth AC</b>, Amato K<sup>\*</sup>, and Cressler CE. 2021. Circadian rhythm in feeding behavior of *Daphnia dentifera*. Journal of Biological Rhythms 36(6): 589-594. [DOI:10.1177/07487304211054404](https://doi.org/10.1177/07487304211054404)
 
 <b>Pfenning-Butterworth AC</b>, Davies TJ, and Cressler CE. 2021. Identifying co-phylogenetic hotspots for zoonotic disease. Philosophical Transactions of the Royal Society B. 376(1837): 20200363. [DOI:10.1098/rstb.2020.0363](https://doi.org/10.1098/rstb.2020.0363)
 
 <b>2020 </b>
 
-Hite JL, <b>Pfenning-Butterworth AC</b>, Vetter RE, and Cressler CE. 2020. A high-throughput method to quantify feeding rates in aquatic organisms: a case study with *Daphnia*. Ecology and Evolution 10(13): 6239-6245. [DOI:10.1002/ece3.6352](https://doi.org/10.1002/ece3.6352)
+Hite JL, <b>Pfenning-Butterworth AC</b>, Vetter RE<sup>\*</sup>, and Cressler CE. 2020. A high-throughput method to quantify feeding rates in aquatic organisms: a case study with *Daphnia*. Ecology and Evolution 10(13): 6239-6245. [DOI:10.1002/ece3.6352](https://doi.org/10.1002/ece3.6352)
 
 Hite JL, <b>Pfenning AC</b>, and Cressler CE. 2020. Starving the Enemy? Feeding behavior shapes host-parasite interactions. Trends in Ecology and Evolution 35(1): 68-80. [DOI:10.1016/j.tree.2019.08.004](https://doi.org/10.1016/j.tree.2019.08.004)
 
