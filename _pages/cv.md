@@ -57,7 +57,7 @@ Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energ
 <h2> Techincal Skills </h2>
 * Computer programs: R, Git, GIS, Geneious Prime, BEAST
 * Molecular biology techniques: DNA/RNA extraction, PCR, gel electrophoresis
-* Field techniques: water quality sampling and analysis, aquatic vertebrate and invertebrate sampling and identification, electroshock sampling, plant sampling and identification
+* Field techniques: water quality sampling and analysis, aquatic vertebrate and invertebrate sampling and identification (seine and dip nets), electroshock sampling, plant sampling and identification
 * Handling of experimental animals (fish and aquatic invertebrates)
 *	Mark and recapture techniques on semi-aquatic animals
 
@@ -77,7 +77,7 @@ Caddigan SC, <b>Pfenning AC</b>, and Sparkes TC. 2017. Competitive growth, energ
 
 <h2> Service and leadership </h2>
 * Organizer, [EcoEvo Symposium](https://ecoevoretreat.wordpress.com/), Vancouver, BC (2022)
-* Volunteer, International Biogeography Society 10th Biennial conference, Vancouver, BC (2022)
+* Volunteer, [International Biogeography Society 10th Biennial conference](https://www.biogeography.org/wp-content/uploads/2022/07/Vancouver-Program-Book-updated.pdf), Vancouver, BC (2022)
 * Data Consultant, Plainfield Public Library District, Plainfield, IL (2022)
 *	President, Biology Graduate Student Association, Lincoln, NE (2020-2021)
 *	Volunteer, Biological Sciences Undergraduate Student Symposium, Lincoln, NE (2019)
