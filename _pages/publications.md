@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <sub> \* indicates undergraduate co-authors </sub>
+
 <b>2023 </b>
 
 <b>Pfenning-Butterworth AC</b>, Vetter RE<sup>\*</sup>, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
