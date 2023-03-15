@@ -32,7 +32,7 @@ redirect_from:
 ## [Publications](https://alainapb.github.io/publications/)
 <sub> \* indicates undergraduate co-authors </sub>
 
-<b>Pfenning-Butterworth AC</b>, Vetter RE<sup>\*</sup>, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. In press.
+<b>Pfenning-Butterworth AC</b>, Vetter RE<sup>\*</sup>, and Hite JL. 2023. Natural variation in host feeding behaviors impacts host disease and pathogen transmission potential. Ecology and Evolution. [In press.](https://doi.org/10.1002/ece3.9865)
 
 Hite JL, <b>Pfenning-Butterworth AC</b>, and Auld SKJR. 2023. Infectious disease: the ecological theatre and the evolutionary play. Evolutionary Ecology. [In press.](https://doi.org/10.1007/s10682-023-10229-5)
 
